@@ -1,0 +1,9 @@
+{
+    "emmet.preferences": {
+        "json.schemaDownload.enable": true,
+        "emmet.excludeLanguages": [],
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        }
+    }
+}
